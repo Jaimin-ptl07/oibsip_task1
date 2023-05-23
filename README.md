@@ -1,1 +1,1 @@
-# Irish Flower Classification
+# Iris Flower Classification
